@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90c93019-bfc2-4649-967b-90bc18ba3398" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQtNZNVPorAY01uvULbCnFrMfI" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="jpabook.jpashop.domain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpabook.jpashop.JpaMain" />
+      <module name="jpashop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpabook.jpashop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JpaMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c93019-bfc2-4649-967b-90bc18ba3398" name="Default Changelist" comment="" />
+      <created>1580990107061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580990107061</updated>
+      <workItem from="1580990117804" duration="2329000" />
+      <workItem from="1581303966818" duration="1682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581316941753">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="453" y="81" key="#com.intellij.ide.util.MemberChooser/0.23.1280.734@0.23.1280.734" timestamp="1581316941753" />
+    <state width="1238" height="228" key="GridCell.Tab.0.bottom" timestamp="1581303758706">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1581303758706" />
+    <state width="1238" height="228" key="GridCell.Tab.0.center" timestamp="1581303758705">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1581303758705" />
+    <state width="1238" height="228" key="GridCell.Tab.0.left" timestamp="1581303758705">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1581303758705" />
+    <state width="1238" height="228" key="GridCell.Tab.0.right" timestamp="1581303758706">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1581303758706" />
+    <state width="1238" height="228" key="GridCell.Tab.1.bottom" timestamp="1581303758707">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.1.bottom/0.23.1280.734@0.23.1280.734" timestamp="1581303758707" />
+    <state width="1238" height="228" key="GridCell.Tab.1.center" timestamp="1581303758706">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.1.center/0.23.1280.734@0.23.1280.734" timestamp="1581303758706" />
+    <state width="1238" height="228" key="GridCell.Tab.1.left" timestamp="1581303758706">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.1.left/0.23.1280.734@0.23.1280.734" timestamp="1581303758706" />
+    <state width="1238" height="228" key="GridCell.Tab.1.right" timestamp="1581303758707">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.1.right/0.23.1280.734@0.23.1280.734" timestamp="1581303758707" />
+    <state x="305" y="81" width="670" height="676" key="search.everywhere.popup" timestamp="1581317005890">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="305" y="81" width="670" height="676" key="search.everywhere.popup/0.23.1280.734@0.23.1280.734" timestamp="1581317005890" />
+  </component>
+</project>
